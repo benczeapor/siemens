@@ -8,52 +8,47 @@ namespace Siemens.Internship2026.GradeBook.Controllers;
 public class ItemController : ControllerBase
 {
     private readonly IItemReader _reader;
+    private readonly IItemStatisticsService _itemStatisticsService;
+    private readonly ILogger<ItemController> _logger;
 
-    public ItemController(IItemReader reader)
+    public ItemController(IItemReader reader, IItemStatisticsService itemStatisticsService, ILogger<ItemController> logger)
     {
         _reader = reader;
+        _itemStatisticsService = itemStatisticsService;
+        _logger = logger;
     }
 
     [HttpGet]
     public async Task<IActionResult> GetAll()
     {
-        Console.WriteLine($"[LOG] {DateTime.UtcNow}: GET api/item called");
+        //Console.WriteLine($"[LOG] {DateTime.UtcNow}: GET api/item called");
+        _logger.LogInformation($"[LOG] {DateTime.UtcNow}: GET api/item called");
 
         var items = await _reader.GetAllAsync();
-        var itemList = items.ToList();
+        var statistics = _itemStatisticsService.CalculateStats( items );
 
-        var totalCount = itemList.Count;
-        var averageValue = itemList.Any() ? itemList.Average(i => i.Value) : 0;
-
-        Console.WriteLine($"[LOG] Returning {totalCount} items, average value: {averageValue}");
+        //Console.WriteLine($"[LOG] Returning {totalCount} items, average value: {averageValue}");
 
         return Ok(new
         {
-            Data = itemList,
-            Statistics = new
-            {
-                TotalCount = totalCount,
-                AverageValue = averageValue,
-                RetrievedAt = DateTime.UtcNow
-            }
+            Data = items,
+            Statistics = statistics
         });
     }
 
-    [HttpGet("{id}")]
+    [HttpGet("{id:int:min(1)}")]
     public async Task<IActionResult> GetById(int id)
     {
-        Console.WriteLine($"[LOG] {DateTime.UtcNow}: GET api/item/{id} called");
+        //Console.WriteLine($"[LOG] {DateTime.UtcNow}: GET api/item/{id} called");
 
-        if (id <= 0)
-        {
-            Console.WriteLine($"[LOG] Invalid id: {id}");
-            return BadRequest("Id must be a positive integer.");
-        }
+        _logger.LogInformation($"[LOG] {DateTime.UtcNow}: GET api/item/{id} called");
 
         var item = await _reader.GetByIdAsync(id);
+
         if (item == null)
         {
-            Console.WriteLine($"[LOG] Item {id} not found");
+            //Console.WriteLine($"[LOG] Item {id} not found");
+            _logger.LogWarning($"[LOG] Item {id} not found");
             return NotFound($"Item with Id {id} was not found.");
         }
 

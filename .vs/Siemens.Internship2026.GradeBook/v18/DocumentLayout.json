@@ -1,22 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\z0043dbh\\OneDrive - Siemens AG\\Desktop\\Internship\\2026\\templateinternship2026\\Siemens.Internship2026.GradeBook\\",
+  "WorkspaceRootPath": "D:\\Cucc\\siemens\\siemens\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|c:\\users\\z0043dbh\\onedrive - siemens ag\\desktop\\internship\\2026\\templateinternship2026\\siemens.internship2026.gradebook\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|solutionrelative:models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|d:\\cucc\\siemens\\siemens\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|solutionrelative:services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|c:\\users\\z0043dbh\\onedrive - siemens ag\\desktop\\internship\\2026\\templateinternship2026\\siemens.internship2026.gradebook\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|d:\\cucc\\siemens\\siemens\\repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|solutionrelative:repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|d:\\cucc\\siemens\\siemens\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|solutionrelative:controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|c:\\users\\z0043dbh\\onedrive - siemens ag\\desktop\\internship\\2026\\templateinternship2026\\siemens.internship2026.gradebook\\interfaces\\iitemreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|d:\\cucc\\siemens\\siemens\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|d:\\cucc\\siemens\\siemens\\interfaces\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|solutionrelative:interfaces\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|d:\\cucc\\siemens\\siemens\\interfaces\\iitemstatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|solutionrelative:interfaces\\iitemstatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|d:\\cucc\\siemens\\siemens\\interfaces\\iitemreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|solutionrelative:interfaces\\iitemreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|c:\\users\\z0043dbh\\onedrive - siemens ag\\desktop\\internship\\2026\\templateinternship2026\\siemens.internship2026.gradebook\\repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|solutionrelative:repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|d:\\cucc\\siemens\\siemens\\services\\itemstatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|solutionrelative:services\\itemstatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|d:\\cucc\\siemens\\siemens\\models\\itemsummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|solutionrelative:models\\itemsummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|d:\\cucc\\siemens\\siemens\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABFBBCA-20B8-615B-9B83-0DE0CD9A0799}|Siemens.Internship2026.GradeBook.csproj|solutionrelative:models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +50,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
@@ -46,54 +74,138 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\z0043dbh\\OneDrive - Siemens AG\\Desktop\\Internship\\2026\\templateinternship2026\\Siemens.Internship2026.GradeBook\\Models\\Item.cs",
-              "RelativeDocumentMoniker": "Models\\Item.cs",
-              "ToolTip": "C:\\Users\\z0043dbh\\OneDrive - Siemens AG\\Desktop\\Internship\\2026\\templateinternship2026\\Siemens.Internship2026.GradeBook\\Models\\Item.cs",
-              "RelativeToolTip": "Models\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T10:34:37.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ItemRepository.cs",
-              "DocumentMoniker": "C:\\Users\\z0043dbh\\OneDrive - Siemens AG\\Desktop\\Internship\\2026\\templateinternship2026\\Siemens.Internship2026.GradeBook\\Repositories\\ItemRepository.cs",
+              "DocumentMoniker": "D:\\Cucc\\siemens\\siemens\\Repositories\\ItemRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ItemRepository.cs",
-              "ToolTip": "C:\\Users\\z0043dbh\\OneDrive - Siemens AG\\Desktop\\Internship\\2026\\templateinternship2026\\Siemens.Internship2026.GradeBook\\Repositories\\ItemRepository.cs",
+              "ToolTip": "D:\\Cucc\\siemens\\siemens\\Repositories\\ItemRepository.cs",
               "RelativeToolTip": "Repositories\\ItemRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T10:23:28.102Z",
+              "WhenOpened": "2026-05-10T14:33:28.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IItemReader.cs",
-              "DocumentMoniker": "C:\\Users\\z0043dbh\\OneDrive - Siemens AG\\Desktop\\Internship\\2026\\templateinternship2026\\Siemens.Internship2026.GradeBook\\Interfaces\\IItemReader.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IItemReader.cs",
-              "ToolTip": "C:\\Users\\z0043dbh\\OneDrive - Siemens AG\\Desktop\\Internship\\2026\\templateinternship2026\\Siemens.Internship2026.GradeBook\\Interfaces\\IItemReader.cs",
-              "RelativeToolTip": "Interfaces\\IItemReader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "D:\\Cucc\\siemens\\siemens\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ItemController.cs",
+              "ToolTip": "D:\\Cucc\\siemens\\siemens\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "Controllers\\ItemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T10:23:17.631Z",
+              "WhenOpened": "2026-05-10T14:33:16.619Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ItemController.cs",
-              "DocumentMoniker": "C:\\Users\\z0043dbh\\OneDrive - Siemens AG\\Desktop\\Internship\\2026\\templateinternship2026\\Siemens.Internship2026.GradeBook\\Controllers\\ItemController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ItemController.cs",
-              "ToolTip": "C:\\Users\\z0043dbh\\OneDrive - Siemens AG\\Desktop\\Internship\\2026\\templateinternship2026\\Siemens.Internship2026.GradeBook\\Controllers\\ItemController.cs",
-              "RelativeToolTip": "Controllers\\ItemController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAwC4AAAAUAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "D:\\Cucc\\siemens\\siemens\\Services\\ItemService.cs",
+              "RelativeDocumentMoniker": "Services\\ItemService.cs",
+              "ToolTip": "D:\\Cucc\\siemens\\siemens\\Services\\ItemService.cs",
+              "RelativeToolTip": "Services\\ItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T10:22:20.98Z",
+              "WhenOpened": "2026-05-10T14:55:19.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IItemService.cs",
+              "DocumentMoniker": "D:\\Cucc\\siemens\\siemens\\Interfaces\\IItemService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IItemService.cs",
+              "ToolTip": "D:\\Cucc\\siemens\\siemens\\Interfaces\\IItemService.cs",
+              "RelativeToolTip": "Interfaces\\IItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T15:53:34.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemStatisticsService.cs",
+              "DocumentMoniker": "D:\\Cucc\\siemens\\siemens\\Services\\ItemStatisticsService.cs",
+              "RelativeDocumentMoniker": "Services\\ItemStatisticsService.cs",
+              "ToolTip": "D:\\Cucc\\siemens\\siemens\\Services\\ItemStatisticsService.cs",
+              "RelativeToolTip": "Services\\ItemStatisticsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T15:10:09.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IItemStatisticsService.cs",
+              "DocumentMoniker": "D:\\Cucc\\siemens\\siemens\\Interfaces\\IItemStatisticsService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IItemStatisticsService.cs",
+              "ToolTip": "D:\\Cucc\\siemens\\siemens\\Interfaces\\IItemStatisticsService.cs",
+              "RelativeToolTip": "Interfaces\\IItemStatisticsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T15:06:40.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cucc\\siemens\\siemens\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Cucc\\siemens\\siemens\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:31:17.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\Cucc\\siemens\\siemens\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Models\\Item.cs",
+              "ToolTip": "D:\\Cucc\\siemens\\siemens\\Models\\Item.cs",
+              "RelativeToolTip": "Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:33:26.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IItemReader.cs",
+              "DocumentMoniker": "D:\\Cucc\\siemens\\siemens\\Interfaces\\IItemReader.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IItemReader.cs",
+              "ToolTip": "D:\\Cucc\\siemens\\siemens\\Interfaces\\IItemReader.cs",
+              "RelativeToolTip": "Interfaces\\IItemReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:33:22.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemSummaryDTO.cs",
+              "DocumentMoniker": "D:\\Cucc\\siemens\\siemens\\Models\\ItemSummaryDTO.cs",
+              "RelativeDocumentMoniker": "Models\\ItemSummaryDTO.cs",
+              "ToolTip": "D:\\Cucc\\siemens\\siemens\\Models\\ItemSummaryDTO.cs",
+              "RelativeToolTip": "Models\\ItemSummaryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T15:08:22.219Z",
               "EditorCaption": ""
             }
           ]

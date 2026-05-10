@@ -1,0 +1,15 @@
+- single responsibility p.
+	- originally ItemController.cs lines 25, 26, 47-51
+	- originally the ItemController class was doing business logic too
+	- moved business logic to the service class ItemStatisticsService
+	- added route constraint
+
+- open/closed p.
+	- originally ItemController.cs lines 25-37
+	- the controller was closed to extension but open to modification
+	- moved business logic to the service class ItemStatisticsService
+
+- dependency inversion p.
+	- originally ItemController.cs lines 20, 28, 45
+	- controller depends on concrete implementation of Console.WriteLine
+	- inject ILogger, so the controller depends on an abstraction
